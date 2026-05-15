@@ -13,11 +13,11 @@ import {
 const TWEAK_DEFAULTS = {
   accentSwatch: "#6366f1",
   dark: false,
-  ecosystem: "parallax",
+  ecosystem: "cube",
   headline: "The operating system for |real businesses.|",
   tagline:
     "AI-guided business software for POS, ERP, HR, and industry operations — composable for restaurants, pharmacies, retail and the multi-entity groups behind them.",
-  typography: "instrument-geist",
+  typography: "spectral-manrope",
   moduleSet: "all",
 };
 
